@@ -6,4 +6,4 @@ enter the index.
 
 if you enter just one of number, this program will create a file.
 
-if you enter two diffrent kind of number, this program will create many files in index.
+if you enter two diffrent kind of number, this program will create files according to index.
