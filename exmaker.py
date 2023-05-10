@@ -35,7 +35,7 @@ def cd():
             try:
                 if path == "":
                     path = "C:/Users/Admin/Desktop/30119_최한빈"
-                elif path.find("C:/") != -1 or path.find("c:/") == -1:
+                elif path.find("C:/") != -1 or path.find("c:/") == -1 or path.find("C:\\") != -1 or path.find("c:\\") == -1:
                     path = "C:/Users/Admin/Desktop/" + path
                 os.chdir(path)
                 break
