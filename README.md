@@ -13,7 +13,7 @@ if you enter two diffrent kind of number, this program will create files accordi
 create: ex1.c, ex2.c, ex3.c, ex4.c
 
 # Command mode
-commands
+commands (with '/')
 - path: change target directory.
 - rm_anno: annotation generate option [on/off].
 - ver: print version in your console.
