@@ -80,6 +80,11 @@ while True:
     else:
         pass
 
+if anno_enable:
+    text = annotation + text
+else:
+    pass
+
 # index mapping
 index = index.split()
 index = list(map(int, index))
