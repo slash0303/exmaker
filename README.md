@@ -16,4 +16,4 @@ create: ex1.c, ex2.c, ex3.c, ex4.c
 commands (with '/')
 - path: change target directory.
 - rm_anno: annotation generate option [on/off].
-- ver: print version in your console.
+- ver: print version on your console.
