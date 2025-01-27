@@ -34,7 +34,7 @@ def cd():
             path = input("path: ")
             try:
                 if path == "":
-                    path = "C:/Users/Admin/Desktop/30119_최한빈"
+                    path = "C:/Users/Admin/Desktop/_"
                 os.chdir(path)
                 break
             except:
