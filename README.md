@@ -1,5 +1,5 @@
 # exmaker
-ex[n].c file generator for high school class
+File generator for high school class.
 
 # How to use
 enter the index.
